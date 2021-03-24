@@ -3,8 +3,7 @@
 
   var FORM_SELECTOR = '[data-coffee-order="form"]';
   var CHECKLIST_SELECTOR = '[data-coffee-order="checklist"]';
-  var SERVER_URL =
-    "http://coffeerun-v2-rest-api.herokuapp.com/api/coffeeorders";
+  var SERVER_URL = 'https://co.audstanley.com/coffeeorders';
   var App = window.App;
   var Truck = App.Truck;
   var DataStore = App.DataStore;
